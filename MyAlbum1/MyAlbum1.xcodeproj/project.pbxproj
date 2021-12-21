@@ -50,7 +50,7 @@
 		0C10F2C22771DBF5006E51CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C10F2C72771DBF5006E51CF /* MyAlbum1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyAlbum1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C10F2D12771DBF5006E51CF /* MyAlbum1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyAlbum1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0C10F2E42771DC9B006E51CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Downloads/onedayhackathon-yuanhangtangle-main/Album3/Assets.xcassets"; sourceTree = "<group>"; };
+		0C10F2E42771DC9B006E51CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C10F2E82771DCD5006E51CF /* MyAlbumViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyAlbumViewCell.swift; sourceTree = "<group>"; };
 		0C10F2EA2771DCDB006E51CF /* snacks.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = snacks.mlmodel; sourceTree = "<group>"; };
 		0C10F2EC2771DCDF006E51CF /* MyTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };

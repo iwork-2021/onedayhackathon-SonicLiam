@@ -71,7 +71,7 @@
                     <navigationItem key="navigationItem" id="VPJ-Mg-iYT">
                         <barButtonItem key="rightBarButtonItem" title="picture" style="plain" id="szZ-uY-Muc">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="contactAdd" lineBreakMode="middleTruncation" id="PHa-bH-hZj">
-                                <rect key="frame" x="20" y="5" width="50" height="34"/>
+                                <rect key="frame" x="344" y="5" width="50" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <buttonConfiguration key="configuration" style="plain" image="picture" title=""/>
                                 <connections>
